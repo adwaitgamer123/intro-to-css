@@ -1,0 +1,15 @@
+h3{
+    color:blueviolet;
+}
+*{
+    font-size: 40px;
+}
+h4,h5{
+    color:darkorange
+}
+#sample{
+    color:cyan
+}
+.demo{
+    color:darkred
+}
